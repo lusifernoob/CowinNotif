@@ -37,7 +37,7 @@ except Exception as e:
     exit()
 
 
-logging.info("\n\nStarting to search for Cowin vaccine slots!\n(c) @xditya")
+logging.info("\n\nStarting to search for Cowin vaccine slots!")
 
 
 async def processes():  # sourcery no-metrics
